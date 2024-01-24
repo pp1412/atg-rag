@@ -105,9 +105,9 @@ def rag_chat(query):
 
 
 if __name__ == "__main__":
-    st = time.time()
     QUESTION = input("Enter your question: ")
+    st = time.time()
     rag_chat(query=QUESTION)
     et = time.time()
     exec_time = et - st
-    print(f'Time : {exec_time} sec')
+    print(f'Time : {exec_time:.2f} sec')
