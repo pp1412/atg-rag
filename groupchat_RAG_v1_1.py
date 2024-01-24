@@ -1,7 +1,7 @@
 """
 This script performs RAG via multi-agent groupchat.
 There are 3 agents employed in this script:
-1. Manager_Assistant
+1. RAG_User_Proxy
 2. Answer_Generator
 3. Answer_Evaluator
 """
