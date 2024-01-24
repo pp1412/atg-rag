@@ -1,0 +1,7 @@
+[
+    {
+        "model": "mistral",
+        "base_url": "http://192.168.11.36:28000",
+        "api_key": "NULL"
+    }
+]
